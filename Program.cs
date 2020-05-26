@@ -6,7 +6,17 @@ namespace CadastroAluno
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+           aluno hitoshi = new aluno();
+           hitoshi.nome = "Hitoshi";
+           hitoshi.idade = 16;
+           hitoshi.bolsista = false;
+           hitoshi.valorMensalidade = 2000f;
+           hitoshi.mediaFinal = 9.7f;
+
+           Console.WriteLine(hitoshi.verMediaFinal());
+           Console.WriteLine(hitoshi.verMensalidade());
+
+           (aluno == Boolean.Parse(Console.ReadLine())) = new aluno();
         }
     }
 }

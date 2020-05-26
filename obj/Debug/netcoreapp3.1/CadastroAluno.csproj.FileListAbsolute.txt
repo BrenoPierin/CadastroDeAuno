@@ -1,0 +1,13 @@
+C:\Marlene\Breno USA\Senai\CadastroAluno\bin\Debug\netcoreapp3.1\CadastroAluno.exe
+C:\Marlene\Breno USA\Senai\CadastroAluno\bin\Debug\netcoreapp3.1\CadastroAluno.deps.json
+C:\Marlene\Breno USA\Senai\CadastroAluno\bin\Debug\netcoreapp3.1\CadastroAluno.runtimeconfig.json
+C:\Marlene\Breno USA\Senai\CadastroAluno\bin\Debug\netcoreapp3.1\CadastroAluno.runtimeconfig.dev.json
+C:\Marlene\Breno USA\Senai\CadastroAluno\bin\Debug\netcoreapp3.1\CadastroAluno.dll
+C:\Marlene\Breno USA\Senai\CadastroAluno\bin\Debug\netcoreapp3.1\CadastroAluno.pdb
+C:\Marlene\Breno USA\Senai\CadastroAluno\obj\Debug\netcoreapp3.1\CadastroAluno.csprojAssemblyReference.cache
+C:\Marlene\Breno USA\Senai\CadastroAluno\obj\Debug\netcoreapp3.1\CadastroAluno.csproj.CoreCompileInputs.cache
+C:\Marlene\Breno USA\Senai\CadastroAluno\obj\Debug\netcoreapp3.1\CadastroAluno.AssemblyInfoInputs.cache
+C:\Marlene\Breno USA\Senai\CadastroAluno\obj\Debug\netcoreapp3.1\CadastroAluno.AssemblyInfo.cs
+C:\Marlene\Breno USA\Senai\CadastroAluno\obj\Debug\netcoreapp3.1\CadastroAluno.dll
+C:\Marlene\Breno USA\Senai\CadastroAluno\obj\Debug\netcoreapp3.1\CadastroAluno.pdb
+C:\Marlene\Breno USA\Senai\CadastroAluno\obj\Debug\netcoreapp3.1\CadastroAluno.genruntimeconfig.cache
