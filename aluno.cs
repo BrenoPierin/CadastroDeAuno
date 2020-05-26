@@ -38,7 +38,7 @@ namespace CadastroAluno
            /// <returns></returns>
             public bool TraduzConsole(string condicao){
                 if(condicao == "sim"){
-                    bolsista = true
+                    bolsista = true;
                 }else{
                     bolsista = false;
 

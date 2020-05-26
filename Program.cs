@@ -16,7 +16,6 @@ namespace CadastroAluno
            Console.WriteLine(hitoshi.verMediaFinal());
            Console.WriteLine(hitoshi.verMensalidade());
 
-           (aluno == Boolean.Parse(Console.ReadLine())) = new aluno();
         }
     }
 }
